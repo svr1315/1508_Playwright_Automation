@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","60909","verify_scenario2","chromium","Mon Oct 14 19:18:10 IST 2024","passed","Mon Oct 14 19:19:10 IST 2024","","Scenario2.spec.js","",""
+"","34239","verify_scenario1","chromium","Mon Oct 14 19:17:34 IST 2024","passed","Mon Oct 14 19:18:09 IST 2024","","Scenario1.spec.js","",""

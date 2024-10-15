@@ -1,0 +1,5 @@
+Starting test: verify_scenario1
+clearSearchHistoryBtn is not visible.
+First Option selected: Books, Magazines, Manga
+Second Option Selected: Book
+Third Option Selected: Computer It

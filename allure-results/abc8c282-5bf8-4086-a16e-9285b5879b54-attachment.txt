@@ -1,0 +1,5 @@
+executed before each test...
+clearSearchHistoryBtn is not visible.
+First Option selected: Books, Magazines, Manga
+Second Option Selected: Book
+Third Option Selected: Computer It
